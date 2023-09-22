@@ -9,7 +9,7 @@ The aim of this mock online test is to solve 80 mental arithmetic questions with
 
 ##
 
-Link to Optiver mock test website : https://rfqjobs.com/practice/math/optiver-test/
+Link to Optiver mock online round test website : https://rfqjobs.com/practice/math/optiver-test/
 
 
 ## 
