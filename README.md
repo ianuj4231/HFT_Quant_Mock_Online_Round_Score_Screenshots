@@ -1,7 +1,7 @@
 # HFT/Quant_Companies_Optiver_Mock_Online_Round_Score_Screenshots
 
 
-The aim of the mock test is to complete 80 mental arithmetic questions in 8 minutes ( +1 for correct answer, -2 for wrong answer).
+The aim of the mock test is to complete 80 mental arithmetic questions within 8 minutes ( +1 for correct answer, -2 for wrong answer).
 
 ##
 
