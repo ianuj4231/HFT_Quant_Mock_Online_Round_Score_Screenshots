@@ -1,7 +1,7 @@
 # HFT/Quant_Companies_Optiver_Mock_Online_Round_Score_Screenshots
 
 
-The aim of this mock online test is to solve 80 mental arithmetic questions within 8 minutes. In my fourth attempt at the mock online round test for the Optiver Quant company, I scored 74/80 marks, which came from correctly answering 77 questions (+1 for each correct response) out of a total of 80 questions, with a -2 penalty for each wrong answer.
+The aim of this mock online round/test is to solve 80 mental arithmetic questions within 8 minutes. In my fourth attempt at the mock online round/test for the Optiver Quant company, I scored 74/80 marks, which came from correctly answering 77 questions (+1 for each correct response) out of a total of 80 questions, with a -2 penalty for each wrong answer.
 
 
 
@@ -9,7 +9,7 @@ The aim of this mock online test is to solve 80 mental arithmetic questions with
 
 ##
 
-Link to Optiver mock online round test website : https://rfqjobs.com/practice/math/optiver-test/
+Link to Optiver mock online round/test website : https://rfqjobs.com/practice/math/optiver-test/
 
 
 ## 
