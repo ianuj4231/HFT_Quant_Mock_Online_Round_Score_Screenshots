@@ -13,4 +13,4 @@ Link to Optiver mock online round/test website : https://rfqjobs.com/practice/ma
 
 
 ## 
-![Screenshot (1124)](https://github.com/ianuj4231/Quant_Companies_Mock_Online_Round_Score_Screenshots/assets/134675919/855ed3d9-27d8-4870-a2a4-a28e61edff68)
+![Screenshot 2023-09-23 025702](https://github.com/ianuj4231/HFT_Quant_Companies_Mock_Online_Round_Score_Screenshots/assets/134675919/dd114237-f431-4492-bf13-d7280976f222)
